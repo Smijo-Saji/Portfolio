@@ -35,8 +35,8 @@ export const Projects = [
     image: "https://i.postimg.cc/9QcFVh0v/port.png",
     description:
       "Designed and developed a responsive personal portfolio website showcasing projects, skills, and contact details.Designed using Tailwind CSS.",
-    link: "https://github.com/Smijo-Saji/PersonalPortfolio",
-    live: "https://smijo-saji-personal-portfolio.vercel.app/",
+    link: "https://github.com/Smijo-Saji/Portfolio",
+    live: "https://smijo-saji-portfolio.vercel.app/",
   },
   {
     title: " Kwik-Memo",
