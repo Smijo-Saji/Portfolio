@@ -15,7 +15,7 @@ function HeroSection() {
       <div className="w-full lg:w-1/2 flex justify-center">
         <div
           className="rounding-sec"
-          data-aos="fade-right"
+          data-aos="fade-up"
           data-aos-duration="1500"
         >
           <div className="big-circle">
@@ -59,13 +59,13 @@ function HeroSection() {
       <div className="w-full lg:w-1/2">
         <h4
           className="text-3xl text-center lg:text-start mb-3 text-neutral-500 mt-10 lg:mt-1"
-          data-aos="fade-left"
+          data-aos="fade-up"
         >
           Hello I'm
         </h4>
         <h1
           className="text-4xl sm:text-6xl lg:text-7xl tracking-wide mt-1  lg:mt-1 lg:text-start text-center"
-          data-aos="fade-left"
+          data-aos="fade-up"
         >
           <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text ">
             Smijo Saji
@@ -73,7 +73,7 @@ function HeroSection() {
         </h1>
         <p
           className="text-neutral-500 mt-4"
-          data-aos="fade-left"
+          data-aos="fade-up"
           data-aos-duration="1500"
         >
           "Experienced Front-End Developer specializing in creating sleek,

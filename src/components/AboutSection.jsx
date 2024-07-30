@@ -39,7 +39,7 @@ function AboutSection() {
           <CheckCircle2 className="text-green-400  bg-black  rounded-full ms-11 xs:absolute md:mx-auto md:right-0 md:left-0" />
           <div
             className="relative pt-2 xs:pl-20 xs:pt-0 md:w-1/2 mr-auto md:pr-6"
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-duration="1500"
           >
             <div
@@ -66,7 +66,7 @@ function AboutSection() {
           <CheckCircle2 className="text-green-400 bg-black  rounded-full ms-11 xs:absolute md:mx-auto md:right-0 md:left-0" />
           <div
             className="relative pt-2 xs:pl-20 xs:pt-0 md:w-1/2 ml-auto md:pl-6"
-            data-aos="fade-left"
+            data-aos="fade-up"
             data-aos-duration="1500"
           >
             <div
@@ -99,7 +99,7 @@ function AboutSection() {
           <CheckCircle2 className="text-green-400  bg-black  rounded-full ms-11 xs:absolute md:mx-auto md:right-0 md:left-0" />
           <div
             className="relative pt-2 xs:pl-20 xs:pt-0 md:w-1/2 mr-auto md:pr-6"
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-duration="1500"
           >
             <div
@@ -126,7 +126,7 @@ function AboutSection() {
           <CheckCircle2 className="text-green-400 bg-black  rounded-full ms-11 xs:absolute md:mx-auto md:right-0 md:left-0" />
           <div
             className="relative pt-2 xs:pl-20 xs:pt-0 md:w-1/2 ml-auto md:pl-6"
-            data-aos="fade-left"
+            data-aos="fade-up"
             data-aos-duration="1500"
           >
             <div
@@ -148,7 +148,7 @@ function AboutSection() {
           <CheckCircle2 className="text-green-400 bg-black  rounded-full ms-11 xs:absolute md:mx-auto md:right-0 md:left-0" />
           <div
             className="relative pt-2 xs:pl-20 xs:pt-0 md:w-1/2 mr-auto md:pr-6"
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-duration="1500"
           >
             <div

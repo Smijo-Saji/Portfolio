@@ -41,7 +41,7 @@ function ContactSection() {
       <div className="flex w-full flex-wrap mt-10 ">
         <div
           className="w-full lg:w-1/2 flex flex-col items-center"
-          data-aos="fade-right"
+          data-aos="fade-up"
           data-aos-duration="1500"
         >
           <h2 className="text-2xl text-orange-500">Talk to me</h2>
@@ -87,7 +87,7 @@ function ContactSection() {
         </div>
         <div
           className="w-full lg:w-1/2 flex flex-col items-center "
-          data-aos="fade-left"
+          data-aos="fade-up"
           data-aos-duration="1500"
         >
           <h2 className="text-2xl text-orange-500 mb-5  mt-10 lg:mt-0">
